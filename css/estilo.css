@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.compañero {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 300px;
+    padding: 20px;
+    text-align: center;
+}
+
+.compañero img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+
+.compañero h2 {
+    margin: 0;
+    color: #333;
+}
+
+.compañero ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.compañero ul li {
+    margin-bottom: 10px;
+}
+
+.compañero ul li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.compañero ul li a:hover {
+    text-decoration: underline;
+}
